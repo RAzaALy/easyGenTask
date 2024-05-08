@@ -6,6 +6,8 @@ Welcome to the live demo of Easy Gen Frontend! This is a React-based application
 
 You can access the live demo [here](https://easy-gen-frontend.vercel.app/signup).
 
+Explanation in Vide:  [here](https://www.awesomescreenshot.com/video/27484603?key=5828a7fd2c55b716af5391d2c5aae2ab).
+
 ## Features
 
 - **User Sign Up:** Register with your name, email address and password.
